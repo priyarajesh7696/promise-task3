@@ -1,0 +1,1 @@
+hi, in this task i taken three API data from the server and use it
